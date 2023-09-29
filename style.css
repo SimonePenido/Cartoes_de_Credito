@@ -6,7 +6,10 @@
 }
 
 body {
-    background: #030003;
+    background-image: url(img/fundo.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 #main-container {
@@ -133,7 +136,7 @@ body {
     padding: 5px 10px;
     border-radius: 20px;
     font-family: calibri;
-    background: rgb(54, 0, 247);
+    background: rgb(206, 97, 250);
 }
 
 .logo {
